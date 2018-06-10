@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "INTERACTIVEAR-clone",
+    "name": "INTERACTIVEAR-english",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -123,7 +123,7 @@
             "fontColor": "#475577",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">How it works&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-5\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">Home<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">How it works&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-5\">Contact<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">Hebrew&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -748,11 +748,11 @@
             "fontColor": "#475577",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">How it works&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-5\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">How it works&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-5\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-5\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -804,7 +804,7 @@
             "showArrow": true,
             "imageSize": "68",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/fond-ar-981x447.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/fond-ar-981x4472.png",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -872,7 +872,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ani-1200x746.png",
+              "src": "@PROJECT_PATH@/assets/images/ani-1200x7461.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -959,7 +959,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fond-ar-981x447.png",
+              "src": "@PROJECT_PATH@/assets/images/fond-ar-981x4472.png",
               "link": "https://www.meshulam.co.il/purchase?p=706167655f69643d38363426627573696e6573735f69643d34323831",
               "alt": "AUGMENTED REALITY BOOK ",
               "title": "BUY THIS",
@@ -1029,7 +1029,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-12-1068x381.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-12-1068x3814.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1076,7 +1076,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/animo-1200x780.png",
+              "src": "@PROJECT_PATH@/assets/images/animo-1200x7803.png",
               "link": "https://www.meshulam.co.il/purchase?p=706167655f69643d38363426627573696e6573735f69643d34323831",
               "alt": "",
               "title": "",
@@ -1113,7 +1113,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x10805.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1123,7 +1123,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x1280.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1265,7 +1265,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x10805.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
