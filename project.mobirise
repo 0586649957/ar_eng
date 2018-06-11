@@ -123,7 +123,7 @@
             "fontColor": "#475577",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">Home<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">How it works&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-5\">Contact<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://0586649957.github.io/ar/\" target=\"_blank\">Hebrew&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">Home<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">How it works&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-5\">Contact<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://0586649957.github.io/ar/\">Hebrew&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -212,8 +212,8 @@
               "size": 250
             }
           },
-          "title": "Books for childrens that gives life to the Animals.",
-          "text": "&nbsp;Brillant idea to mix Books with a New Technology&nbsp;<br><br>&nbsp;2020 is already here!&nbsp;<br><br>Special promotion<br>Save now 20 SH and get free a Colouring &nbsp;booklet by buying a book<br><b>&nbsp;</b>",
+          "title": "Books for childrens that life to the Creature.",
+          "text": "&nbsp;Interactivear had the brillant idea to mix Books with this very New Technology&nbsp;<br><br>&nbsp;2020 is already here!&nbsp;<br><br>Special promotion<br>Save now 20 SH and get free a Colouring &nbsp;booklet by buying a book<br><b>&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://bit.ly/2FUrEra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; Order</a> ",
           "_tags": [
             "Thème"
@@ -356,9 +356,9 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">הספר מתעורר לחיים חדשים בטכנולוגית 3D ייחודית! 3 ספרים לבחירה במחיר מוזל עם &nbsp;</span><span style=\"font-weight: normal;\">חוברת צביעה במתנה.</span>",
-          "text": "ספר חיות הג'ונגל ו/או ספר חיות החווה ו/או ספר חיות היום + חוברת צביעה\n<br>לכל ספר + אפליקציה ייעודית<br><b><i>הפועלת ללא צורך באינטרנט</i></b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://bit.ly/2FUrEra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; &nbsp;להזמנה</a>",
+          "title": "<span style=\"font-weight: normal;\"><br></span>Unique proposal<br><span style=\"font-weight: normal;\"><br>Line of 3 books of you choice with AR when you will see the animals appear &nbsp; in 4D.</span><br><span style=\"font-weight: normal;\">Special Gift of 1 colouring booklet for each book you buy.<br></span><span style=\"font-weight: normal;\">- Jungle Safari\\Friendly Farm\\Under the sea</span><br><span style=\"font-weight: normal;\">The books are coming with a dedicated AR Apps and coloring Booklet</span><br><span style=\"font-weight: normal;\">After Download - No need of internet.</span>",
+          "text": "&nbsp;&nbsp;<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://bit.ly/2FUrEra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; &nbsp;Order</a>",
           "_tags": [
             "Thème"
           ],
@@ -366,7 +366,7 @@
           "_anchor": "msg-box5-2",
           "_styles": {
             "H3": {
-              "text-align": "right"
+              "text-align": "left"
             },
             "P": {
               "text-align": "right",
@@ -475,7 +475,7 @@
           },
           "title": "אפלקצייה ייחודית לכל ספר בטכנולוגית מציאות רבודה<br>",
           "text": "AUGMENTED REALITY",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://bit.ly/2FUrEra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; להזמנה</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://bit.ly/2FUrEra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; Order</a>",
           "_tags": [
             "Thème"
           ],
@@ -756,7 +756,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x12818.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x12824.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -808,7 +808,7 @@
             "showArrow": true,
             "imageSize": "68",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/fond-ar-981x44720.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/fond-ar-981x44726.png",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -876,7 +876,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ani-1200x74619.png",
+              "src": "@PROJECT_PATH@/assets/images/ani-1200x74625.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -963,7 +963,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fond-ar-981x44720.png",
+              "src": "@PROJECT_PATH@/assets/images/fond-ar-981x44726.png",
               "link": "https://www.meshulam.co.il/purchase?p=706167655f69643d38363426627573696e6573735f69643d34323831",
               "alt": "AUGMENTED REALITY BOOK ",
               "title": "BUY THIS",
@@ -1033,7 +1033,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-12-1068x38122.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-12-1068x38128.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1080,7 +1080,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/animo-1200x78021.png",
+              "src": "@PROJECT_PATH@/assets/images/animo-1200x78027.png",
               "link": "https://www.meshulam.co.il/purchase?p=706167655f69643d38363426627573696e6573735f69643d34323831",
               "alt": "",
               "title": "",
@@ -1117,7 +1117,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108023.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108029.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1127,7 +1127,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x12818.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x12824.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1269,7 +1269,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108023.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108029.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
