@@ -151,12 +151,12 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#28262b",
-              "text-align": "right",
+              "text-align": "left",
               "font-size": "36px"
             },
             ".mbr-section-text": {
               "color": "#000000",
-              "text-align": "right",
+              "text-align": "left",
               "font-size": "32px"
             },
             ".btn": {
@@ -212,9 +212,9 @@
               "size": 250
             }
           },
-          "title": "ספרים רבותיי ספרים!\n<div>לקרוא ספר</div>",
-          "text": "&nbsp;בטכנולוגיה חדשה<br>&nbsp;2020 כבר כאן !\n<br>מבצע מיוחד&nbsp;<br><b>ח</b><b>וברת צביעה מתנה בשווי 20 ש\"ח ברכישת כל ספר.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://bit.ly/2FUrEra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; להזמנה לחצו\nעל הספרים</a> ",
+          "title": "Books for childrens that gives life to the&nbsp;",
+          "text": "&nbsp;New Technology associated with Books<br><br>&nbsp;2020 is already here!&nbsp;<br><br>Special promotion<br>Save now 20 SH and get free a Colouring &nbsp;booklet by buying a book<br><b>&nbsp;</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://bit.ly/2FUrEra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; Order</a> ",
           "_tags": [
             "Thème"
           ],
@@ -264,7 +264,7 @@
               "size": 0
             }
           },
-          "title": "לגלות מציאות חדשה",
+          "title": "Discover another reality",
           "text": "סדרת ספרי מציאות רבודה המציגה אנימציות של חיות קסומות וסיפורים קלאסיים. שימוש בטלפון חכם או בטאבלט כדי להביא לחיים דמויות שבספר.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;להזמנה</a>",
           "_tags": [
@@ -274,7 +274,8 @@
           "_anchor": "msg-box5-e",
           "_styles": {
             "H3": {
-              "color": "#475577"
+              "color": "#475577",
+              "text-align": "left"
             }
           }
         },
@@ -748,11 +749,11 @@
             "fontColor": "#475577",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">How it works&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-5\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-5\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">Home<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-1\">How it works&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-5\">Contact<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://0586649957.github.io/ar/\">Hebrew&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -804,7 +805,7 @@
             "showArrow": true,
             "imageSize": "68",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/fond-ar-981x4478.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/fond-ar-981x4472.png",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -872,7 +873,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ani-1200x7467.png",
+              "src": "@PROJECT_PATH@/assets/images/ani-1200x7461.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -959,7 +960,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fond-ar-981x4478.png",
+              "src": "@PROJECT_PATH@/assets/images/fond-ar-981x4472.png",
               "link": "https://www.meshulam.co.il/purchase?p=706167655f69643d38363426627573696e6573735f69643d34323831",
               "alt": "AUGMENTED REALITY BOOK ",
               "title": "BUY THIS",
@@ -1029,7 +1030,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-12-1068x38110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-12-1068x3814.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1076,7 +1077,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/animo-1200x7809.png",
+              "src": "@PROJECT_PATH@/assets/images/animo-1200x7803.png",
               "link": "https://www.meshulam.co.il/purchase?p=706167655f69643d38363426627573696e6573735f69643d34323831",
               "alt": "",
               "title": "",
@@ -1113,7 +1114,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108011.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x10805.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1123,7 +1124,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x1280.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1265,7 +1266,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108011.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x10805.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
