@@ -756,7 +756,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x12812.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -808,7 +808,7 @@
             "showArrow": true,
             "imageSize": "68",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/fond-ar-981x4478.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/fond-ar-981x44714.png",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -876,7 +876,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ani-1200x7467.png",
+              "src": "@PROJECT_PATH@/assets/images/ani-1200x74613.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -963,7 +963,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fond-ar-981x4478.png",
+              "src": "@PROJECT_PATH@/assets/images/fond-ar-981x44714.png",
               "link": "https://www.meshulam.co.il/purchase?p=706167655f69643d38363426627573696e6573735f69643d34323831",
               "alt": "AUGMENTED REALITY BOOK ",
               "title": "BUY THIS",
@@ -1033,7 +1033,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-12-1068x38110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-12-1068x38116.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1080,7 +1080,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/animo-1200x7809.png",
+              "src": "@PROJECT_PATH@/assets/images/animo-1200x78015.png",
               "link": "https://www.meshulam.co.il/purchase?p=706167655f69643d38363426627573696e6573735f69643d34323831",
               "alt": "",
               "title": "",
@@ -1117,7 +1117,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108011.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108017.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1127,7 +1127,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x12812.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1269,7 +1269,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108011.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108017.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
