@@ -473,7 +473,7 @@
               "size": 0
             }
           },
-          "title": "אפלקצייה ייחודית לכל ספר בטכנולוגית מציאות רבודה<br>",
+          "title": "Dedicated AR Apps for each book<br><br>",
           "text": "AUGMENTED REALITY",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://bit.ly/2FUrEra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; Order</a>",
           "_tags": [
@@ -483,7 +483,8 @@
           "_anchor": "msg-box5-7",
           "_styles": {
             "H3": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "text-align": "left"
             }
           }
         },
@@ -516,8 +517,8 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "צרו איתנו קשר<br><br>\nדואר אלקטרוני<a href=\"mailto:michael@interactivear.net\" class=\"text-white\">&nbsp;: michael@interactivear.net</a><br>טל:<br><a href=\"tel:+972546649957\" class=\"text-white\">972-54-664-9957+</a><br><br><br>&nbsp;",
-          "text3": "<strong><br></strong>אינטראקטיב אר<br><strong>InteractiveAR</strong>",
+          "text2": "Contact us<br><br>Email: &nbsp;<a href=\"mailto:michael@interactivear.net\" class=\"text-white\">michael@interactivear.net</a><br>Phone :&nbsp;<a href=\"tel:+972546649957\" class=\"text-white\">972-54-664-9957+</a><br><br><br>&nbsp;",
+          "text3": "<strong><br></strong>Interactive AR&nbsp;<br><strong>InteractiveAR</strong>",
           "_tags": [
             "Thème"
           ],
@@ -525,7 +526,8 @@
           "_anchor": "contacts1-5",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "text-align": "left"
             }
           }
         },
@@ -545,7 +547,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "לשאלות נוספות כיתבו לנו",
+          "title": "For any additionnal question please contact us :",
           "subtitle": "",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">שלח</a>",
           "form": {
@@ -756,7 +758,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x12824.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x12830.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -808,7 +810,7 @@
             "showArrow": true,
             "imageSize": "68",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/fond-ar-981x44726.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/fond-ar-981x44732.png",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -876,7 +878,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ani-1200x74625.png",
+              "src": "@PROJECT_PATH@/assets/images/ani-1200x74631.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -963,7 +965,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fond-ar-981x44726.png",
+              "src": "@PROJECT_PATH@/assets/images/fond-ar-981x44732.png",
               "link": "https://www.meshulam.co.il/purchase?p=706167655f69643d38363426627573696e6573735f69643d34323831",
               "alt": "AUGMENTED REALITY BOOK ",
               "title": "BUY THIS",
@@ -1033,7 +1035,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-12-1068x38128.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-12-1068x38134.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1080,7 +1082,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/animo-1200x78027.png",
+              "src": "@PROJECT_PATH@/assets/images/animo-1200x78033.png",
               "link": "https://www.meshulam.co.il/purchase?p=706167655f69643d38363426627573696e6573735f69643d34323831",
               "alt": "",
               "title": "",
@@ -1117,7 +1119,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108029.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108035.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1127,7 +1129,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x12824.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x12830.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1141,15 +1143,16 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "צרו איתנו קשר<br><br>\nדואר אלקטרוני<a href=\"mailto:michael@interactivear.net\" class=\"text-white\">&nbsp;: michael@interactivear.net</a><br>טל:<br><a href=\"tel:+972546649957\" class=\"text-white\">972-54-664-9957+</a><br><br><br>&nbsp;",
-          "text3": "<strong><br></strong>אינטראקטיב אר<br><strong>InteractiveAR</strong>",
+          "text2": "Contact us<br><br>Email: &nbsp;<a href=\"mailto:michael@interactivear.net\" class=\"text-white\">michael@interactivear.net</a><br>Phone :&nbsp;<a href=\"tel:+972546649957\" class=\"text-white\">972-54-664-9957+</a><br><br><br>&nbsp;",
+          "text3": "<strong><br></strong>Interactive AR&nbsp;<br><strong>InteractiveAR</strong>",
           "_tags": [
             "Thème"
           ],
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "text-align": "left"
             }
           },
           "_anchor": "contacts1-1b"
@@ -1269,7 +1272,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108029.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108035.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",

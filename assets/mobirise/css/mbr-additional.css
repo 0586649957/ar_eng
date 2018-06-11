@@ -558,9 +558,11 @@ h6,
 }
 #msg-box5-7 H3 {
   font-size: 25px;
+  text-align: left;
 }
 #contacts1-5 P {
   font-size: 16px;
+  text-align: left;
 }
 #form1-f .form-control-label {
   color: #232323;
@@ -724,6 +726,7 @@ h6,
 }
 #contacts1-1b P {
   font-size: 16px;
+  text-align: left;
 }
 #form1-1c .form-control-label {
   color: #232323;
