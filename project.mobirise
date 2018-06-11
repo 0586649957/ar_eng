@@ -212,8 +212,8 @@
               "size": 250
             }
           },
-          "title": "Books for childrens that gives life to the&nbsp;",
-          "text": "&nbsp;New Technology associated with Books<br><br>&nbsp;2020 is already here!&nbsp;<br><br>Special promotion<br>Save now 20 SH and get free a Colouring &nbsp;booklet by buying a book<br><b>&nbsp;</b>",
+          "title": "Books for childrens that gives life to the Animals.",
+          "text": "&nbsp;Brillant idea to mix Books with a New Technology&nbsp;<br><br>&nbsp;2020 is already here!&nbsp;<br><br>Special promotion<br>Save now 20 SH and get free a Colouring &nbsp;booklet by buying a book<br><b>&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://bit.ly/2FUrEra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; Order</a> ",
           "_tags": [
             "Thème"
@@ -265,8 +265,8 @@
             }
           },
           "title": "Discover another reality",
-          "text": "סדרת ספרי מציאות רבודה המציגה אנימציות של חיות קסומות וסיפורים קלאסיים. שימוש בטלפון חכם או בטאבלט כדי להביא לחיים דמויות שבספר.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;להזמנה</a>",
+          "text": "<br>Line of books with AR (augmented Reality)<br>That shows an animation of the animals and classic stories.<br>Apps on Smartphone and Tablets to give life to the comics in the books.&nbsp;<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;Order</a>",
           "_tags": [
             "Thème"
           ],
@@ -275,6 +275,9 @@
           "_styles": {
             "H3": {
               "color": "#475577",
+              "text-align": "left"
+            },
+            "P": {
               "text-align": "left"
             }
           }
@@ -753,7 +756,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x1286.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -805,7 +808,7 @@
             "showArrow": true,
             "imageSize": "68",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/fond-ar-981x4472.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/fond-ar-981x4478.png",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -873,7 +876,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ani-1200x7461.png",
+              "src": "@PROJECT_PATH@/assets/images/ani-1200x7467.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -960,7 +963,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fond-ar-981x4472.png",
+              "src": "@PROJECT_PATH@/assets/images/fond-ar-981x4478.png",
               "link": "https://www.meshulam.co.il/purchase?p=706167655f69643d38363426627573696e6573735f69643d34323831",
               "alt": "AUGMENTED REALITY BOOK ",
               "title": "BUY THIS",
@@ -1030,7 +1033,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-12-1068x3814.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-12-1068x38110.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1077,7 +1080,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/animo-1200x7803.png",
+              "src": "@PROJECT_PATH@/assets/images/animo-1200x7809.png",
               "link": "https://www.meshulam.co.il/purchase?p=706167655f69643d38363426627573696e6573735f69643d34323831",
               "alt": "",
               "title": "",
@@ -1114,7 +1117,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x10805.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108011.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1124,7 +1127,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-ar-128x1286.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1266,7 +1269,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x10805.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x108011.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
